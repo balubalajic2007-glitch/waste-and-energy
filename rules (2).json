@@ -1,0 +1,14 @@
+{"items":[
+{"id":"news","name":"Newspaper","hi":"अख़बार","rate":12,"co2":0.9},
+{"id":"card","name":"Cardboard","hi":"गत्ता","rate":8,"co2":0.9},
+{"id":"pet","name":"PET bottles","hi":"प्लास्टिक बोतल","rate":15,"co2":1.5},
+{"id":"hard","name":"Hard plastic","hi":"सख़्त प्लास्टिक","rate":10,"co2":1.2},
+{"id":"iron","name":"Iron","hi":"लोहा","rate":30,"co2":1.5},
+{"id":"alu","name":"Aluminium","hi":"एल्युमिनियम","rate":100,"co2":9},
+{"id":"glass","name":"Glass bottles","hi":"काँच की बोतल","rate":2,"co2":0.3}],
+"ewaste":[
+{"id":"ph","name":"Phones and chargers","hi":"फोन और चार्जर"},
+{"id":"bat","name":"Batteries","hi":"बैटरी"},
+{"id":"cfl","name":"CFL and tube lights","hi":"CFL और ट्यूबलाइट"},
+{"id":"lap","name":"Laptops and other electronics","hi":"लैपटॉप और इलेक्ट्रॉनिक्स"}],
+"ewaste_advice":"Do not sell these to the kabadiwala. They contain lead, mercury or lithium. Give them to an authorised e-waste collector or a brand take-back counter."}

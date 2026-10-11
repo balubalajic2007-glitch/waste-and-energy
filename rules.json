@@ -1,0 +1,9 @@
+{"regions":[
+{"id":"raj","name":"Rajasthan, Gujarat","yield":1550},
+{"id":"north","name":"Delhi, Punjab, Haryana, UP","yield":1400},
+{"id":"south","name":"Karnataka, Tamil Nadu, Telangana, Andhra","yield":1450},
+{"id":"west","name":"Maharashtra, MP","yield":1450},
+{"id":"east","name":"West Bengal, Odisha, Bihar","yield":1300},
+{"id":"kerala","name":"Kerala, North East","yield":1250}],
+"cost_per_kw":60000,"area_per_kw":10,"max_kw":10,"grid_co2":0.71,"life_years":25,
+"subsidy":{"per_kw_first2":30000,"per_kw_third":18000,"cap":78000}}
